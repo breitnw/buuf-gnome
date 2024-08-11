@@ -5,3 +5,5 @@ A modified version of the [Buuf](https://www.pling.com/p/1012512/) icon theme fo
 - Certain window icons (close, minimize, maximize, etc.) [not fully functional yet]
 - Most application icons
 - Icons for volume, brightness, and microphone settings
+
+I made this patched theme because Buuf-Nestort had many missing setting icons, but a much more comprehensive library of app icons. 
