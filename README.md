@@ -2,8 +2,8 @@
 
 A modified version of the [Buuf](https://www.pling.com/p/1012512/) icon theme for GNOME with some patched icons from [Buuf-Nestort](https://www.pling.com/p/1012233/). I made this theme because Buuf-Nestort had many missing setting icons, but a much more comprehensive library of app icons. Patched icons from Buuf-Nestort include:
 
-- Most application icons
-- Icons for volume, brightness, and microphone settings
+- Most application icons. I did keep several originally present in Buuf (such as the insanely metal-looking gnu for Emacs) as a matter of taste.
+- Icons for volume, brightness, and microphone settings, since I didn't like the way that they scaled to indicate intensity. 
 
 Also, I've patched some of the icons manually, including:
 
